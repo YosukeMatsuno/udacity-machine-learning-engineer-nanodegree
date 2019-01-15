@@ -8,4 +8,4 @@ Finished 16th October 2018.
 
 ### Certificate
 
-<img src="MLND_Certificate.png" width="720">   
+<img src= "MLND_Certificate.png" width= "720">   
